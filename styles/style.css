@@ -1,0 +1,17 @@
+#google {
+    color: greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home-footer{
+    color:chartreuse;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('../images/build.jpg'); /* location of image */
+    background-repeat: no-repeat; /* prevents image repeat */
+    background-size: cover; /* scale image to cover the entire element (body) */
+    background-position: center; /* centers the image */
+}
